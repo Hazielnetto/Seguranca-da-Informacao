@@ -1,0 +1,10 @@
+2. select department from employees where first_name='Bob' and last_name = 'Franco'
+3. update employees set department= 'Sales' where first_name='Tobi' and last_name = 'Barnett'
+4. Alter table employees add phone varchar(20)
+5. Grant alter table to UnauthorizedUser
+6. "a' or 1=1"
+9. SELECT * FROM user_data WHERE first_name = 'John' and last_name = 'Smith' or '1' = '1'
+10. SELECT * From user_data WHERE Login_Count = 1 and userid= 1 or 1=1 --
+11. SELECT * FROM employees WHERE last_name = '" + ' or 1=1 -- + "' AND auth_tan = '" + 3SL99A+ ";
+12. SELECT * FROM employees WHERE last_name = 'Smith' or 1=1 update employees set salary=999999 where AUTH_TAN='3SL99A'--" + name + "' AND auth_tan = '" + auth_tan + "';
+13. Smith' DROP TABLE access_log--
